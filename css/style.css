@@ -1,0 +1,31 @@
+body{background-color:#3B3B3B; margin:0px;}
+
+.main_layout{width:960px; height:1285px; margin:0px auto; background-color:#838383; border:1px solid #FF0000;}
+
+.menu{width:960px; height:40px; margin:0px; float:left;}
+.menu ul{margin:0px; padding:0px;}
+.menu li{display:inline;}
+.menu a{width:135px; height:38px; background-color:#1F5903; margin:0px; float:left; color:#FFF22A; text-align:center; text-decoration:none; line-height:40px; border:1px solid #FFF22A;}
+.menu a:hover{ background-color:#FF5704; color:#FFF;}
+	
+.banner{width:960px; height:250px; background-color:#140C52; float:left; margin-top:10px;}
+.banner p{font-size:50px; line-height:100px; text-align:center; color:#F6FF00;}
+
+
+.main_box1{width:225px; height:400px; background-color:#E22B00; float:left; margin:10px 10px 0px 0px;
+	text-align:center; font-size:30px; line-height:400px; color:#fff; }
+
+.main_box2{width:225px; height:400px; background-color:#E22B00; float:left; margin:10px 10px 0px 10px;
+	text-align:center; font-size:30px; line-height:400px; color:#fff;}
+
+.main_box3{width:225px; height:400px; background-color:#E22B00; float:left; margin:10px 10px 0px 10px;
+	text-align:center; font-size:30px; line-height:400px; color:#fff;}
+
+.main_box4{width:225px; height:400px; background-color:#E22B00; float:left; margin:10px 0px 0px 10px;
+	text-align:center; font-size:30px; line-height:400px; color:#fff;}
+	
+.babu_area{width:960px; height:300px; background-color:#e6e6e6; float:left; text-align:center; font-size:50px; 	line-height:300px; color:#F6FF00; margin-top:5px;}	
+
+.content_area{width:960px; height:200px; background-color:#141059; float:left; text-align:center; font-size:50px; 	line-height:200px; color:#F6FF00; margin-top:10px;}
+
+.footer{width:960px; height:50px; background-color:#1F5903; float:left; margin-top:10px; text-align:center; font-size:30px; line-height:50px; color:#FFF22A;}
